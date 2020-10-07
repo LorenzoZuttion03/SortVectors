@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lorenzo.zuttion\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj": {}
+    "C:\\Users\\lorenzo.zuttion\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lorenzo.zuttion\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj": {
+    "C:\\Users\\lorenzo.zuttion\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lorenzo.zuttion\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj",
+        "projectUniqueName": "C:\\Users\\lorenzo.zuttion\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj",
         "projectName": "SortVectors",
-        "projectPath": "C:\\Users\\lorenzo.zuttion\\Documents\\SortVectors\\SortVectors\\SortVectors.csproj",
+        "projectPath": "C:\\Users\\lorenzo.zuttion\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj",
         "packagesPath": "C:\\Users\\lorenzo.zuttion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lorenzo.zuttion\\Documents\\SortVectors\\SortVectors\\obj\\",
+        "outputPath": "C:\\Users\\lorenzo.zuttion\\Documents\\Clone\\SortVectors\\SortVectors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
